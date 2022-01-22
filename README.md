@@ -1,2 +1,2 @@
 # test-belajar
-beljar github aja
+belajar github resolusi

@@ -3,4 +3,5 @@ resolusi
 -belajar
 -refreshing
 -hangout
+-belajar programming
 -ulangi

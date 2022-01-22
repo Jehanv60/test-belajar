@@ -1,4 +1,6 @@
 Rencana kedepan
 -bisa memahami golang
+ *framework golang
 -membuat program dari golang
 -paham microservices
+ *docker & kubernetes

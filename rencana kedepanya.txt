@@ -2,5 +2,9 @@ Rencana kedepan
 -bisa memahami golang
  *framework golang
 -membuat program dari golang
+-belajar dari udemy
+ *basic
+ *intermediate
 -paham microservices
  *docker & kubernetes
+-mongodb

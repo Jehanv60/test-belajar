@@ -1,0 +1,4 @@
+Rencana kedepan
+-bisa memahami golang
+-membuat program dari golang
+-paham microservices

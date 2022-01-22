@@ -8,3 +8,5 @@ Rencana kedepan
 -paham microservices
  *docker & kubernetes
 -mongodb
+-MySQL
+-elasticsearch
